@@ -1,0 +1,37 @@
+{
+  "name": "redux-persist-cookies-adapter",
+  "version": "1.0.0",
+  "description": "Redux Persist Cookies Storage Adapter",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LuuchoRocha/redux-persist-cookies-adapter"
+  },
+  "homepage": "https://github.com/LuuchoRocha/redux-persist-cookies-adapter#readme",
+  "author": "Luciano Rocha <rocha.lucho@gmail.com> (https://www.linkedin.com/in/luuchorocha/)",
+  "contributors": [
+    "Luciano Rocha <rocha.lucho@gmail.com> (https://www.linkedin.com/in/luuchorocha/)"
+  ],
+  "maintainers": [
+    "Luciano Rocha <rocha.lucho@gmail.com> (https://www.linkedin.com/in/luuchorocha/)"
+  ],
+  "license": "BSD-2-Clause",
+  "readme": "README.md",
+  "bugs": {
+    "url": "https://github.com/LuuchoRocha/redux-persist-cookies-adapter/issues",
+    "email": "rocha.lucho@gmail.com"
+  },
+  "dependencies": {
+    "cookies-js": "^1.2.3"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "persist",
+    "redux-persist",
+    "cookies",
+    "storage",
+    "adapter"
+  ]
+}
